@@ -8,5 +8,5 @@ read b
 c=$((a + b))
 echo "sum of 2 numbers $c"
 
-echo "adding extra line"
+
 
